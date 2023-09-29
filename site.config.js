@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `yelm-log`,
+      href: "https://github.com/yel-m/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "yelm-dev",
-    description: "welcome to yel-m's developdiary!",
+    title: "yelm-log",
+    description: "welcome to yelm-log!",
   },
 
   // CONFIG configration (required)
